@@ -1,0 +1,26 @@
+{
+  "name": "dom-traversal",
+  "main": "index.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/akiran/dom-traversal",
+  "authors": [
+    "Kiran Abburi"
+  ],
+  "description": ": \"light weight dom traversal\"",
+  "keywords": [
+    "DOM",
+    "traversal"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "should": "~4.3.0",
+    "jquery": "~2.1.1"
+  }
+}

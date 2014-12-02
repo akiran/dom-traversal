@@ -1,0 +1,34 @@
+{
+  "name": "dom-traversal",
+  "version": "0.1.0",
+  "description": "Light weight DOM traversal library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akiran/dom-traversal.git"
+  },
+  "keywords": [
+    "DOM",
+    "traversal",
+    "light-weight"
+  ],
+  "author": "Kiran Abburi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akiran/dom-traversal/issues"
+  },
+  "homepage": "https://github.com/akiran/dom-traversal",
+  "devDependencies": {
+    "async": "^0.9.0",
+    "karma": "^0.12.28",
+    "karma-chrome-launcher": "^0.1.5",
+    "karma-mocha": "^0.1.9",
+    "karma-webpack": "^1.3.1",
+    "mocha": "^2.0.1",
+    "webpack": "^1.4.13",
+    "webpack-dev-server": "^1.6.6"
+  }
+}
